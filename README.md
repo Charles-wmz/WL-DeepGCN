@@ -1,6 +1,7 @@
 # WL-DeepGCN
 
 This is a Pytorch implementation of Deep Graph Convolutional Networks combined with weight-learning, as described in our paper.
+"DeepGCN-Based Multimodal Diagnostic Approach for Autism Spectrum Disorders" has been published by "IEEE Transactions on Neural Systems and Rehabilitation Engineering"
 
 ## Requirement
 
